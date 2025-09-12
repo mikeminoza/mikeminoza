@@ -1,4 +1,4 @@
-# Hi, I'm Mike Arthur Miñoza 
+# Hi, I'm Mike Arthur 
 Aspiring Software Developer | Always learning, experimenting, and improving my coding skills
 
 ---
