@@ -52,7 +52,6 @@ Aspiring Software Developer | Always learning, experimenting, and improving my c
 ## 📫 Contact Me
 
 - **Email:** [mikearthurminoza@gmail.com](mailto:mikearthurminoza@gmail.com)  
-- **Phone:** +63 991 190 3093  
 
 ---
 
