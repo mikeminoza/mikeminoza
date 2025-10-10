@@ -1,6 +1,4 @@
-# Hi, I'm Mike Arthur 
-Aspiring Software Developer | Always learning, experimenting, and improving my coding skills
-
+# Mike Arthur Miñoza
 ---
 
 ## 🛠 Skills & Tools
