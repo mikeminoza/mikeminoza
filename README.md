@@ -1,4 +1,4 @@
-# Mike Arthur Miñoza
+# Mike Arthur Miñoza | Aspiring Software Engineer
 ---
 
 ## 🛠 Skills & Tools
