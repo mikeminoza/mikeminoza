@@ -36,7 +36,7 @@
 - **Chi-Square Calculator** – Statistical hypothesis test calculator.  
 - **[SparkQuiz](https://sparkquiz.vercel.app/)** – MCQ generator using Gemini AI.  
 - **Travelling Chatbot** – AI chatbot using Gemini to assist with travel questions and plans.  
-- **[Trackle](https://trackle-web.vercel.app/)** – Financial app with AI insights and chatbot for tracking money (powered by Gemini, almost done).  
+- **[Trackle](https://trackle-web.vercel.app/)** – Financial app with AI insights and chatbot for tracking money.  
 
 ---
 
