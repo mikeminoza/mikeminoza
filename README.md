@@ -30,13 +30,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- AI-powered applications (Gemini AI, chatbots)  
-- Cloud platform tools (deployment, DevOps basics)  
-
----
-
 ## 💻 Projects
 
 - **MedNexus** – School clinic web app handling appointments and medical documents for students and employees.  
