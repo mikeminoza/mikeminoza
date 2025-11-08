@@ -1,4 +1,4 @@
-# Mike Arthur Miñoza | Back-end Web Developer
+# Mike Arthur Miñoza | Software Developer | Back End
 ---
 
 ## 🛠 Skills & Tools
